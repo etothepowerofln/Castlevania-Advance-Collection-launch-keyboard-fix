@@ -5,8 +5,6 @@ The program expects a standard keyboard layout during the launch event. If you u
 **Alert: the program will not return to your custom keyboard layout, you have to do it later.**
 
 ## Installation
-
-1. Copy every file to the same folder "game.exe" is located
-2. Rename "game.exe" to "game.OG.exe"
-3. Rename "Castlevania Advance Collection keyboard fix.exe" to "game.exe"
-4. You can launch your game normally through Steam or through the new exe file
+- Copy every file to the same folder "game.exe" is located
+- Copy as path "Castlevania Advance Collection keyboard fix.exe"
+- In Steam -> Properties -> Launch Options, set: "path" %command%
